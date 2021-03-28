@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "StickersThiefTelegramBot", "StickersThiefTelegramBot\StickersThiefTelegramBot.fsproj", "{23DE3C3E-8DCE-4942-82E5-36022D1DBCCD}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "StickerThiefTelegramBot.Persistence", "StickerThiefTelegramBot.Persistence\StickerThiefTelegramBot.Persistence.fsproj", "{5E1B777F-A209-430B-AD1E-9933F7D2DF00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StickerCollectorTelegramBot", "StickerCollectorTelegramBot\StickerCollectorTelegramBot.csproj", "{AD35321A-5F1E-4591-A785-53911CAC700F}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "StickerCollectorTelegramBotFs", "StickerCollectorTelegramBotFs\StickerCollectorTelegramBotFs.fsproj", "{F43C2C9E-FBB1-44C5-B163-FEF3C329ADBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{6439E2EF-E604-4D69-968C-DD955E7A38F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23DE3C3E-8DCE-4942-82E5-36022D1DBCCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23DE3C3E-8DCE-4942-82E5-36022D1DBCCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23DE3C3E-8DCE-4942-82E5-36022D1DBCCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23DE3C3E-8DCE-4942-82E5-36022D1DBCCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E1B777F-A209-430B-AD1E-9933F7D2DF00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E1B777F-A209-430B-AD1E-9933F7D2DF00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E1B777F-A209-430B-AD1E-9933F7D2DF00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E1B777F-A209-430B-AD1E-9933F7D2DF00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD35321A-5F1E-4591-A785-53911CAC700F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD35321A-5F1E-4591-A785-53911CAC700F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD35321A-5F1E-4591-A785-53911CAC700F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD35321A-5F1E-4591-A785-53911CAC700F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F43C2C9E-FBB1-44C5-B163-FEF3C329ADBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F43C2C9E-FBB1-44C5-B163-FEF3C329ADBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F43C2C9E-FBB1-44C5-B163-FEF3C329ADBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F43C2C9E-FBB1-44C5-B163-FEF3C329ADBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6439E2EF-E604-4D69-968C-DD955E7A38F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6439E2EF-E604-4D69-968C-DD955E7A38F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6439E2EF-E604-4D69-968C-DD955E7A38F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6439E2EF-E604-4D69-968C-DD955E7A38F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
